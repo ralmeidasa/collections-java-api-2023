@@ -1,4 +1,4 @@
-package List.OperacoesBasicas.Pesquisa;
+package List.Pesquisa;
 
 public class Livro {
     //atributos
