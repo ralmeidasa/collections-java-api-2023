@@ -1,4 +1,4 @@
-package Set.Ordenacao;
+package Set.Pesquisa;
 
 public class Tarefa {
     //atributos
